@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "STSci Software Carpentry Workshop, August 8-9 2017"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: teague@mit.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: bpteague/2017-08-08-stsci
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -32,8 +32,8 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/bpteague/2017-08-08-stsci"
+workshop_site: "https://bpteague.github.io/2017-08-08-stsci"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
